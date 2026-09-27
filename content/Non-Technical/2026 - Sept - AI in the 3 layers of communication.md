@@ -1,7 +1,7 @@
 ---
 title: Where LLMs work, and where they do not
 subtitle: A conceptual mental model on how to think of where LLMs are useful, and where they can be problematic when applied to use cases
-draft: false
+draft: true
 tags:
   - non-technical
 ---

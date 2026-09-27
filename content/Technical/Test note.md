@@ -1,5 +1,6 @@
 ---
 title: test title
+draft: true
 tags:
   - example-tag
 ---
